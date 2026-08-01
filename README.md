@@ -142,7 +142,3 @@ Before further feature work:
 4. Generate native scaffolding and produce a signed build per `docs/DEPLOYMENT.md`.
 
 ---
-
-## License
-
-*(Add your license here.)*

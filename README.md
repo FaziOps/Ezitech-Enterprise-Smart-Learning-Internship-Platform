@@ -38,7 +38,9 @@ bottom.
   `ResponsiveCenter` wrapper — previously only the Dashboard had tablet
   treatment.
 
+
 ## What I will not claim is done
+
 
 - **No signed Android APK, no iOS build.** This project has no native
   `android/`/`ios/` scaffolding (never ran `flutter create` — no SDK in
@@ -54,6 +56,7 @@ bottom.
 - **Zero real backend integrations, still.** Four weeks of features now
   sit on the same unconfirmed API assumptions flagged in Week 2 and
   Week 3. See `docs/DELIVERABLES_CHECKLIST.md` for the full accounting.
+
 
 ## Full API requirements table
 

@@ -14,7 +14,7 @@ class AiAssistantRemoteDataSource {
   // or falls back to the key baked in as a default for development builds.
   static const String geminiApiKey = String.fromEnvironment(
     'GEMINI_API_KEY',
-    defaultValue: 'AIzaSyAlteNMfPZ-6Rg3fhBUHRxG3PjvgxOdoMQ',
+    defaultValue: '',
   );
 
   // System prompt that scopes the assistant to the Ezitech learning context.

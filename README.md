@@ -1,6 +1,7 @@
 # Ezitech — Enterprise Smart Learning & Internship Platform
 
 A Flutter-based enterprise learning and internship management platform, built as part of the Ezitech case study. This README reflects the real state of the project as of **Week 4 (finalization pass)** — what's working, what's seeded, and what's genuinely outstanding.
+
 ---
 
 ## Status

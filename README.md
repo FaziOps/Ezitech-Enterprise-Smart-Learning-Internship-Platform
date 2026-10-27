@@ -4,6 +4,7 @@ A Flutter-based enterprise learning and internship management platform, built as
 
 ---
 
+
 ## Status
 
 **Week 4 complete.** All 9 MVP modules are built. This week focused on bug fixes, a performance/accessibility/responsive pass, and the documentation and deployment artifacts required by the case study — deliberately no new features, so the project could be stabilized and honestly assessed before moving further.
